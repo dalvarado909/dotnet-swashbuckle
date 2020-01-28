@@ -1,0 +1,12 @@
+# IDE files
+.idea
+.vscode
+
+# Logs
+
+# Generated
+bin
+obj
+
+# OS-generated
+.DS_Store
